@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kursovaya</string>
+    <string name="sign_in">Вход</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Пароль</string>
+    <string name="btn_login">Войти</string>
+    <string name="btn_link_to_register">Зарегистрироваться</string>
+    <string name="image">image</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="hint_group">11-901</string>
+    <string name="btn_register">Зарегистрироваться</string>
+    <string name="btn_already_registered">Уже есть аккаунт</string>
+</resources>
